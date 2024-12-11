@@ -1,0 +1,17 @@
+{
+    "name": "IDEK.Tools.WorldManagement.Unity",
+    "rootNamespace": "IDEK.Tools.WorldManagement.Unity",
+    "references": [
+        "IDEK.Tools.WorldManagement.CoreLib",
+        "IDEK.Tools.ShocktroopUtils"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
